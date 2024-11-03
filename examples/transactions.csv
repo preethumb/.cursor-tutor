@@ -1,0 +1,4 @@
+date,account,type,symbol,quantity,price,total_amount
+2024-03-20,My 401k,BUY,AAPL,10,180.50,1805.00
+2024-03-21,Brokerage,DEPOSIT,,,,,5000.00
+2024-03-22,Roth IRA,SELL,GOOGL,5,142.30,711.50 

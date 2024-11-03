@@ -1,0 +1,4 @@
+account,symbol,quantity,cost_basis
+My 401k,AAPL,100,15000.00
+Brokerage,GOOGL,50,7250.00
+Roth IRA,VTI,200,40000.00 
